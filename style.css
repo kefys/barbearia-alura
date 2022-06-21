@@ -225,10 +225,6 @@ td, th {
 	font-weight: bold;
 }
 
-.itens:before {
-	content: "🟊";
-}
-
 .imagem-beneficios {
 	width: 60%;
 	opacity: 1;
@@ -275,4 +271,7 @@ td, th {
 	}
 
 	/*contato*/
+	.enviar{
+		width: 80%;
+	}
 }
