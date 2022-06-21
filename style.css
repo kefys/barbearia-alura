@@ -243,6 +243,10 @@ td, th {
 		width: auto;
 		margin: 0 1em;
 	}
+
+	nav a{
+		font-size: 20px;
+	}
 /*index*/
 	.video{
 		width: auto;
